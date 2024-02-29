@@ -20,7 +20,7 @@ class Estagiario extends PessoaFisica {
    }catch (\Throwable $th){ 
        echo $th->getMessage();
    }
-   
+
 $pessoa1->setNome('flavio');
 // $pessoa1->getNome($nome);
 echo $pessoa1->$nome;
