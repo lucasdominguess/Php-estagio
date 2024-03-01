@@ -1,7 +1,9 @@
 <?php 
+namespace app;
+
 declare(strinct_types=1);
 
-namespace app;
+
 
 
 abstract class PessoaFisica {

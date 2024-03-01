@@ -1,8 +1,8 @@
 {
-    "name": "x492420/curso-php_udemy",
+    "name": "x492420/php_curso",
     "autoload": {
         "psr-4": {
-            "app": "src"
+            "App\\": "app/"
         }
     },
     "authors": [
@@ -13,4 +13,3 @@
     ],
     "require": {}
 }
-
